@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working for [Heighliner](https://heighliner.dev)
+- 📫 How to reach me: [vgjm456@qq.com](mailto:vgjm456@qq.com)
+
 <a href="https://github.com/vgjm">
   <image width='38%' src="https://github-readme-stats.vercel.app/api?username=vgjm&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
 </a>
