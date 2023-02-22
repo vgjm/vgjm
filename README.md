@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working for [Heighliner](https://heighliner.dev)
+- 🔭 I’m currently working for [Heighliner](https://heighliner.dev) and [He3](https://he3.app)
 - 📫 How to reach me: [vgjm456@qq.com](mailto:vgjm456@qq.com)
 
 <a href="https://github.com/vgjm#gh-light-mode-only">
