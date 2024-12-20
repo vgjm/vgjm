@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [vgjm@foxmail.com](mailto:vgjm@foxmail.com)
+- 📫 How to reach me: vgjm at foxmail dot com
